@@ -26,10 +26,6 @@ I enjoy building practical software, learning how systems work, solving programm
 
 ## 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,sql" />
-</p>
-
 *  Java
 *  JavaScript
 *  HTML
@@ -39,10 +35,6 @@ I enjoy building practical software, learning how systems work, solving programm
 ---
 
 ## 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
-</p>
 
 * HTML5
 * CSS3
@@ -55,10 +47,6 @@ I enjoy building practical software, learning how systems work, solving programm
 ---
 
 ## ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
-</p>
 
 * Java
 * Spring Boot
@@ -74,10 +62,6 @@ I enjoy building practical software, learning how systems work, solving programm
 
 ## 🗄️ Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
-</p>
-
 * MySQL
 * PostgreSQL
 * MongoDB
@@ -92,10 +76,6 @@ I enjoy building practical software, learning how systems work, solving programm
 
 ## ☁️ DevOps & Cloud
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,vercel" />
-</p>
-
 * Docker
 * GitHub Actions
 * CI/CD
@@ -107,10 +87,6 @@ I enjoy building practical software, learning how systems work, solving programm
 ---
 
 ## 🔧 Tools & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux" />
-</p>
 
 * Git
 * GitHub
